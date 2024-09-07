@@ -1,0 +1,19 @@
+{
+  "name": "auction-house-create-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.19.5",
+    "@solana/spl-token": "^0.3.8",
+    "@solana/web3.js": "^1.90.0",
+    "bs58": "^5.0.0",
+    "node-ts": "^6.0.1",
+    "typescript": "^5.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
